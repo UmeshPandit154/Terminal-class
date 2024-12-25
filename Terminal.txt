@@ -1,0 +1,100 @@
+The Terminal:-
+
+      A text input and output environment.
+
+
+Different Terms
+
+1. Command Line - any interface that is used by entering textual commands(gen. Windows centric)
+
+2. Terminal - This is a type of command line (gen. mac centric)
+
+3. Console - A command-line interface used to work with your computer
+
+4. Shell - A program running on terminal
+
+5. Bash - A popular shell on Mac OS/Linux
+
+6. Z-Shell - Another shell (default) 
+
+
+(Windows Users Only) Installing Git Bash
+   
+          https://git-scm.com
+
+
+Basics Commands:-
+    Is = list files
+    (show my files)
+
+pwd = print working directory
+   (where am i?)
+
+clear = clear screen
+
+
+Navigation:-
+  Inside & Outside Directories
+  
+  cd = change directory
+
+ 
+ cd Desktop
+
+ cd .. = back button
+
+
+Paths in Navigation:-
+   Absolute & Relative
+
+cd Desktop/Delta(relative path)
+
+cd/Users/umesh/Desktop (absolute path)
+
+
+/ = root directory
+
+~= home directory
+
+
+Making Directories
+
+  mkdir = make directory
+ 
+
+what are flags:-
+   flags are characters that we pass with commands to modify their behaviour
+
+manual Command
+
+mam Is- give info about Is command
+
+mam mkdir-give info about mkdir command
+
+ with Flags
+ 
+Is -/
+
+Is -a
+
+Is -/a
+
+Touch Command:-
+ Used to create files
+
+touch index.html
+
+touch app.js
+
+touch abc.txt
+
+
+Deleting Files & Folders:-
+  
+ rm - removes files
+
+ rmdir - removes empty folders
+
+ re-rf - removes any folders
+
+ 
